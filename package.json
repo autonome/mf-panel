@@ -1,0 +1,12 @@
+{
+  "title": "Microformat DevTools Panel",
+  "name": "mf-panel",
+  "version": "0.0.1",
+  "description": "Inspect Microformat content in this panel in the Firefox Developer Tools",
+  "main": "index.js",
+  "author": "Dietrich Ayala",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "MIT"
+}

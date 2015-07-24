@@ -1,2 +1,2 @@
-# mf-panel
-Microformats inspection panel for Firefox Developer Tools
+#Microformat DevTools Panel
+Inspect Microformat content in this panel in the Firefox Developer Tools
